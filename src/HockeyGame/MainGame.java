@@ -1,6 +1,7 @@
 package HockeyGame;
 
 import java.io.File;
+import java.io.FileWriter;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.*;
@@ -50,6 +51,9 @@ public class MainGame {
                     }
                 }
                 System.out.println(leaderboards);
+                FileWriter file = new FileWriter("resources/leaderboard.txt");
+                file.write(leaderboards);
+                file.close();
             } else {
                 System.out.print("Enter team name: ");
                 String tname = scan.nextLine();
