@@ -1,0 +1,1 @@
+Kochune//Dragon//100//90//40//50;;Rachumu//Dragon//100//90//40//50;;Rameimu//Wizard//100//50//70//30;;Korone//Wizard//100//50//70//30;;Meichuro//Dragon//100//90//40//50;;Meikomei//Wizard//100//50//70//30;;Ropine//Knight//100//60//10//60;;Churoka//Barbarian//100//70//20//50;;Gupika//Elf//100//30//60//10;;Pirone//Knight//100//60//10//60
