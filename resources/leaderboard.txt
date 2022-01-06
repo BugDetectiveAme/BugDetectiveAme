@@ -1,0 +1,20 @@
+By wins:
+-- First --
+The Longest Johns - 1 wins
+-- Second --
+Weird Names - 0 wins
+-- Third --
+Balanced - 0 wins
+
+
+By goals conceded:
+-- First --
+The Group Project - 0 conceded
+-- Second --
+The Defenders - 3 conceded
+-- Third --
+The Longest Johns - 5 conceded
+-- Fourth --
+Weird Names - 5 conceded
+-- Fifth --
+Balanced - 5 conceded
